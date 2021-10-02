@@ -13,8 +13,8 @@
 
 📬 How to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-swastikmohanty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moolam-mounika-a9b633214) 
-[![Mail Badge](https://img.shields.io/badge/-swastik845-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:moolammounika1002@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-moolammounika-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moolam-mounika-a9b633214) 
+[![Mail Badge](https://img.shields.io/badge/-moolammounika1002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:moolammounika1002@gmail.com) 
 
 
 <p float="left">
